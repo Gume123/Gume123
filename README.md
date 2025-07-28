@@ -21,7 +21,7 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javasc
         
  <br>
  <div>
-<div class="tenor-gif-embed" data-postid="17290794348037335376" data-share-method="host" data-aspect-ratio="1" data-width="100%"><a href="https://tenor.com/view/thug-and-durk-gif-17290794348037335376">Thug And Durk Meme</a>from <a href="https://tenor.com/search/thug+and+durk-memes">Thug And Durk Memes</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+<img width="50%" height="50%"  src="https://media.tenor.com/bCfpwMjfAi0AAAAC/cat-typing.gif"/>
 </div>
  <br>   
 
