@@ -28,4 +28,4 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javasc
  <div>
 
 <a href="https://github.com/Gume123">
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?Gume123=anuraghazra\&layout=pie)](https://github.com/anuraghazra/github-readme-stats)</div>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gume123&layout=pie)](https://github.com/Gume123/github-readme-stats)
