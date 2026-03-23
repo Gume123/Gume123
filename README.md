@@ -1,8 +1,6 @@
-# Olá! :) Seja bem vindo(a) ao meu perfil!
+# Olá! :) Seja bem vindo(a) ao meu git!
 
 📚 Estudante de Ciência da Computação pela FECAP.
-
-😄 Pronomes: Ele/Dele.
 
 📫 Como entrar em contato comigo: 
 <div> 
@@ -28,4 +26,3 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javasc
  <div>
 
 <a href="https://github.com/Gume123">
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gume123&layout=compact)
